@@ -10,7 +10,7 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <runConfigurationId>Firefox (headless)</runConfigurationId>
+            <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/PruebaTestSuites</testSuiteEntity>
