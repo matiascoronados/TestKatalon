@@ -18,14 +18,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.241.158.156/#/')
 
-WebUI.setText(findTestObject('Object Repository/Page_front/input_Nombre completo_input-1'), 'Maria Antonieta')
+WebUI.setText(findTestObject('Object Repository/Page_front/input_Nombre completo_input-1'), 'Matias Coronado')
 
-WebUI.setText(findTestObject('Object Repository/Page_front/input_RUT_input-2'), '19.231.123-k')
+WebUI.setText(findTestObject('Object Repository/Page_front/input_RUT_input-2'), '19.208.377-k')
 
-WebUI.setText(findTestObject('Object Repository/Page_front/input_Fecha de nacimiento_input-3'), '16/03/1993')
+WebUI.setText(findTestObject('Object Repository/Page_front/input_Fecha de nacimiento_input-3'), '10/04/1992')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_front/Llenar formulario'), 'Ingenieria Civil en Electricidad', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_front/Select carrera'), 'Ingenieria Comercial', true)
 
 WebUI.click(findTestObject('Object Repository/Page_front/button_Registrar'))
 

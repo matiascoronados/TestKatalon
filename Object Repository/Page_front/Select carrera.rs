@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Llenar formulario</name>
+   <name>Select carrera</name>
    <tag></tag>
-   <elementGuidId>308ca4b5-101d-4ee9-9788-da44f16c92f2</elementGuidId>
+   <elementGuidId>9d498dfd-788a-46f8-822e-6138c1d2b300</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='input-4']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

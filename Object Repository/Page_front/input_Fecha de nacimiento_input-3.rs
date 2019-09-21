@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Fecha de nacimiento_input-3</name>
    <tag></tag>
-   <elementGuidId>fb0ba3ba-8547-4492-82f0-1f9a46a73500</elementGuidId>
+   <elementGuidId>70226bbd-ca0f-480b-9209-b1d669ffbe42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
