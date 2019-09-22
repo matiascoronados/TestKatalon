@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite,Chrome 77.0.3865.90,,,2019-09-21 21:15:19,2019-09-21 21:15:43,"24,159s",INCOMPLETE
+,,,,,,,
+Test Cases/TestA,Chrome 77.0.3865.90,,,2019-09-21 21:15:20,2019-09-21 21:15:29,"9,887s",PASSED
+"openBrowser("""")",Chrome 77.0.3865.90,,,2019-09-21 21:15:20,2019-09-21 21:15:26,"6,162s",PASSED
+"navigateToUrl(""http://192.241.158.156/#/"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:26,2019-09-21 21:15:28,"1,754s",PASSED
+"setText(findTestObject(""Object Repository/TestA/Page_front/input_Nombre completo_input-1""), ""Carla Damasco"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:28,2019-09-21 21:15:28,"0,273s",PASSED
+"setText(findTestObject(""Object Repository/TestA/Page_front/input_RUT_input-2""), ""10.103.123-4"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:28,2019-09-21 21:15:28,"0,189s",PASSED
+"setText(findTestObject(""Object Repository/TestA/Page_front/input_Fecha de nacimiento_input-3""), ""10/01/1923"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:28,2019-09-21 21:15:28,"0,175s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TestA/Page_front/select_Ingenieria""), ""Ingenieria en Alimentos"", true)",Chrome 77.0.3865.90,,,2019-09-21 21:15:28,2019-09-21 21:15:29,"0,275s",PASSED
+"click(findTestObject(""Object Repository/TestA/Page_front/button_Registrar""))",Chrome 77.0.3865.90,,,2019-09-21 21:15:29,2019-09-21 21:15:29,"0,125s",PASSED
+closeBrowser(),Chrome 77.0.3865.90,,,2019-09-21 21:15:29,2019-09-21 21:15:29,"0,570s",PASSED
+,,,,,,,
+Test Cases/TestB,Chrome 77.0.3865.90,,,2019-09-21 21:15:29,2019-09-21 21:15:37,"7,318s",PASSED
+"openBrowser("""")",Chrome 77.0.3865.90,,,2019-09-21 21:15:30,2019-09-21 21:15:32,"2,077s",PASSED
+"navigateToUrl(""http://192.241.158.156/#/"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:32,2019-09-21 21:15:35,"3,241s",PASSED
+"click(findTestObject(""Object Repository/TestB/Page_front/a_Buscar""))",Chrome 77.0.3865.90,,,2019-09-21 21:15:35,2019-09-21 21:15:35,"0,136s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TestB/Page_front/select_Ingenieria""), ""Ingenieria Comercial"", true)",Chrome 77.0.3865.90,,,2019-09-21 21:15:35,2019-09-21 21:15:36,"0,741s",PASSED
+"click(findTestObject(""Object Repository/TestB/Page_front/button_Buscar""))",Chrome 77.0.3865.90,,,2019-09-21 21:15:36,2019-09-21 21:15:36,"0,332s",PASSED
+closeBrowser(),Chrome 77.0.3865.90,,,2019-09-21 21:15:36,2019-09-21 21:15:37,"0,563s",PASSED
+,,,,,,,
+Test Cases/TestC,Chrome 77.0.3865.90,,,2019-09-21 21:15:37,2019-09-21 21:15:43,"6,701s",PASSED
+"openBrowser("""")",Chrome 77.0.3865.90,,,2019-09-21 21:15:37,2019-09-21 21:15:39,"2,125s",PASSED
+"navigateToUrl(""http://192.241.158.156/#/"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:39,2019-09-21 21:15:41,"1,604s",PASSED
+"setText(findTestObject(""Object Repository/TestC/Page_front/input_Nombre completo_input-1""), ""Valentina Guzman"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:41,2019-09-21 21:15:41,"0,224s",PASSED
+"setText(findTestObject(""Object Repository/TestC/Page_front/input_RUT_input-2""), ""12.123.412-3"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:41,2019-09-21 21:15:41,"0,191s",PASSED
+"setText(findTestObject(""Object Repository/TestC/Page_front/input_Fecha de nacimiento_input-3""), ""10/02/1992"")",Chrome 77.0.3865.90,,,2019-09-21 21:15:41,2019-09-21 21:15:41,"0,175s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TestC/Page_front/select_Ingenieria""), ""Ingenieria Comercial"", true)",Chrome 77.0.3865.90,,,2019-09-21 21:15:41,2019-09-21 21:15:42,"0,226s",PASSED
+"click(findTestObject(""Object Repository/TestC/Page_front/button_Registrar""))",Chrome 77.0.3865.90,,,2019-09-21 21:15:42,2019-09-21 21:15:42,"0,128s",PASSED
+"click(findTestObject(""Object Repository/TestC/Page_front/a_Buscar""))",Chrome 77.0.3865.90,,,2019-09-21 21:15:42,2019-09-21 21:15:42,"0,173s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TestC/Page_front/select_Ingenieria""), ""Ingenieria Comercial"", true)",Chrome 77.0.3865.90,,,2019-09-21 21:15:42,2019-09-21 21:15:43,"0,740s",PASSED
+"click(findTestObject(""Object Repository/TestC/Page_front/button_Buscar""))",Chrome 77.0.3865.90,,,2019-09-21 21:15:43,2019-09-21 21:15:43,"0,345s",PASSED
+closeBrowser(),Chrome 77.0.3865.90,,,2019-09-21 21:15:43,2019-09-21 21:15:43,"0,560s",PASSED

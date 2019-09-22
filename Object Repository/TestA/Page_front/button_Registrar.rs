@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Registrar</name>
    <tag></tag>
-   <elementGuidId>e41ed716-c54f-40e3-9278-ce4b5cffc624</elementGuidId>
+   <elementGuidId>2cb38781-cbcd-453f-8902-616e0b2215ba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
