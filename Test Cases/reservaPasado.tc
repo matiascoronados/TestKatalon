@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se realiza una reserva de una fecha del pasado 7 de octubre del 2019</description>
+   <name>reservaPasado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>819814ba-2b35-4f78-ad50-93d6f4244acc</testCaseGuid>
+</TestCaseEntity>
