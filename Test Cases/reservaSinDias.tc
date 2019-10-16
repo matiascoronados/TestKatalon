@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se reserva sin especificar los días</description>
+   <name>reservaSinDias</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8237f6d-4b74-40b0-9747-caf18879cdea</testCaseGuid>
+</TestCaseEntity>
